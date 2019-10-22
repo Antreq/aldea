@@ -35,7 +35,7 @@ Route::get('/suscripcion', function () {
     return view('suscripcion');
 });
 
-Route::get('/new', function () {
+Route::get('/crear', function () {
     return view('crear');
 });
 
