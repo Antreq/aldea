@@ -1,4 +1,7 @@
-<div class="top-header">
+    <header class="header-area">
+
+        <!-- Top Header Area -->
+        <div class="top-header">
             <div class="container h-100">
                 <div class="row h-100">
                     <div class="col-12 h-100">
@@ -26,3 +29,4 @@
                 </div>
             </div>
         </div>
+
