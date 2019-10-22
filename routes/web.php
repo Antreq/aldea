@@ -27,7 +27,7 @@ Route::get('/catalogo', function () {
     return view('catalogo');
 });
 
-Route::get('/contact', function () {
+Route::get('/contacto', function () {
     return view('contact');
 });
 
