@@ -53,18 +53,18 @@
                             <!-- Nav Start -->
                             <div class="classynav">
                                 <ul>
-                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="{{ url('/') }}">Home</a></li>
                                     <li><a href="#">Proyectos</a>
                                         <ul class="dropdown">
-                                            <li><a href="index.html">Crear</a></li>
-                                            <li><a href="catalogo.html">Catalogo</a></li>
-                                            <li><a href="course.html">Premium</a></li>
+                                            <li><a href="{{ url('/crear') }}">Crear</a></li>
+                                            <li><a href="{{ url('/catalogo') }}">Catalogo</a></li>
+                                            <li><a href="{{ url('/pagos') }}">Premium</a></li>
                                         </ul>
                                     </li>
                                    
-                                    <li><a href="about-us.html">Nosotros</a></li>
-                                    <li><a href="faq.html">FAQ</a></li>
-                                    <li><a href="contact.html">Contacto</a></li>
+                                    <li><a href="{{ url('/about') }}">Nosotros</a></li>
+                                    <li><a href="{{ url('/faq') }}">FAQ</a></li>
+                                    <li><a href="{{ url('/contacto') }}">Contacto</a></li>
                                 </ul>
                             </div>
                             <!-- Nav End -->
@@ -73,7 +73,7 @@
                         <!-- Calling Info -->
                         <div class="calling-info">
                             <div class="call-center">
-                                <a href="tel:+654563325568889"><i class="icon-telephone-2"></i> <span>(+65) 456 332 5568 889</span></a>
+                                <a href="tel:+654563325568889"><i class="icon-telephone-2"></i> <span>(+52) 444 114 1111</span></a>
                             </div>
                         </div>
                     </nav>
