@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 @extends('layouts.header')
 @section('content')
@@ -24,7 +24,7 @@
                             <div class="hero-slides-content">
                                 <h4 data-animation="fadeInUp" data-delay="100ms">Proyectos Colaborativo</h4>
                                 <h2 data-animation="fadeInUp" data-delay="400ms">Bienvenido a <br>Aldea CrowdSourcing</h2>
-                                <a href="#" class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">Leer Mas</a>
+                                <a href="#" class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">Leer Más</a>
                             </div>
                         </div>
                     </div>
@@ -39,7 +39,7 @@
                             <div class="hero-slides-content">
                                 <h4 data-animation="fadeInUp" data-delay="100ms">Universidades</h4>
                                 <h2 data-animation="fadeInUp" data-delay="400ms">Por Estudiantes<br>para Estudiantes</h2>
-                                <a href="#" class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">Leer Mas</a>
+                                <a href="#" class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">Leer Más</a>
                             </div>
                         </div>
                     </div>
@@ -289,8 +289,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
-                        <h3>Quieres saber mas sobre Aldea? Contactanos!</h3>
-                        <a href="#" class="btn academy-btn">Saber Mas</a>
+                        <h3>Quieres saber más sobre Aldea? Contáctanos!</h3>
+                        <a href="#" class="btn academy-btn">Saber Más</a>
                     </div>
                 </div>
             </div>
