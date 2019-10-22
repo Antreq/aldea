@@ -10,7 +10,6 @@
     </div>
 
     <!-- ##### Header Area Start ##### -->
-    @extends('layouts.header')
     <!-- ##### Header Area End ##### -->
 
     <!-- ##### Hero Area Start ##### -->
