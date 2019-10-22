@@ -33,7 +33,7 @@
                                         @auth
                                             <a href="{{ url('/home') }}">Perfil</a>
                                         @else
-                                            <a href="{{ route('login') }}">Iniciar seción  </a>
+                                            <a href="{{ route('login') }}">Iniciar sesión  </a>
 
                                             @if (Route::has('register'))
                                                 <a href="{{ route('register') }}"> Registrarse</a>
@@ -76,7 +76,7 @@
                                         <ul class="dropdown">
                                             <li><a href="{{ url('/crear') }}">Crear</a></li>
                                             <li><a href="{{ url('/catalogo') }}">Catalogo</a></li>
-                                            <li><a href="{{ url('/pagos') }}">Premium</a></li>
+                                            <li><a href="{{ url('/suscripcion') }}">Premium</a></li>
                                         </ul>
                                     </li>
                                    
