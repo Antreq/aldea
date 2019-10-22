@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-@extends('layouts.head')
+@extends('layouts.header')
 @section('content')
 <body>
     <!-- ##### Preloader ##### -->
