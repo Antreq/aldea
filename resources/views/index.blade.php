@@ -2,7 +2,7 @@
 <html lang="en">
 
 @extends('layouts.head')
-
+@section('content')
 <body>
     <!-- ##### Preloader ##### -->
     <div id="preloader">
