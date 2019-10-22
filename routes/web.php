@@ -39,8 +39,8 @@ Route::get('/crear', function () {
     return view('crear');
 });
 
-Route::get('/elements', function () {
-    return view('elements');
+Route::get('/perfil', function () {
+    return view('perfil');
 });
 
 Route::get('/faq', function () {
