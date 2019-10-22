@@ -31,8 +31,8 @@ Route::get('/contacto', function () {
     return view('contact');
 });
 
-Route::get('/course', function () {
-    return view('course');
+Route::get('/suscripcion', function () {
+    return view('suscripcion');
 });
 
 Route::get('/new', function () {
