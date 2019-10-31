@@ -20,7 +20,7 @@
 			<form class="form-inline text-center">
 				<div class="col-sm-10">
 				  <input type="text" class="form-control" id="q" placeholder="Buscar proyectos" >
-					<button type="button" class="btn btn-default"> Buscar</button>
+					<button type="button" class="btn btn-default">Buscar</button>
 				</div>
 			</form>
 		</div>
