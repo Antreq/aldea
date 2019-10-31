@@ -64,7 +64,7 @@
                     <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="400ms">
                         <div class="popular-course-content">
                             <h5>Marketing</h5>
-                            <span>Por Elsa Arriaga   <br>  20 de septiembre de 2019</span>
+                            <span>Por Elsa Arriaga<br>20 de septiembre de 2019</span>
                             <div class="course-ratings">
                                 <i class="fa fa-star" aria-hidden="true"></i>
                                 <i class="fa fa-star" aria-hidden="true"></i>
@@ -163,7 +163,7 @@
                     <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="600ms">
                         <div class="popular-course-content">
                             <h5>Huerto digital con arduino</h5>
-                            <span>Por Alfredo Reyes   <br>  22 de septiembre de 2019</span>
+                            <span>Por Alfredo Reyes<br>22 de septiembre de 2019</span>
                             <div class="course-ratings">
                                 <i class="fa fa-star" aria-hidden="true"></i>
                                 <i class="fa fa-star" aria-hidden="true"></i>
@@ -183,7 +183,7 @@
                     <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="600ms">
                         <div class="popular-course-content">
                             <h5>Pagina web para negocio</h5>
-                            <span>Por Valeria Ochoa   <br>  14 de agosto de 2019</span>
+                            <span>Por Valeria Ochoa<br>14 de agosto de 2019</span>
                             <div class="course-ratings">
                                 <i class="fa fa-star" aria-hidden="true"></i>
                                 <i class="fa fa-star" aria-hidden="true"></i>
