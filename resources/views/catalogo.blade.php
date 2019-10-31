@@ -104,7 +104,7 @@
                     <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="400ms">
                         <div class="popular-course-content">
                             <h5>Negocio digital</h5>
-                            <span>Por Alfonso Garcia   <br>  19 de agosto de 2019</span>
+                            <span>Por Alfonso Garcia<br>19 de agosto de 2019</span>
                             <div class="course-ratings">
                                 <i class="fa fa-star" aria-hidden="true"></i>
                                 <i class="fa fa-star" aria-hidden="true"></i>
@@ -123,7 +123,7 @@
                     <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="500ms">
                         <div class="popular-course-content">
                             <h5>Sistemas digitales con arduino</h5>
-                            <span>Por Felipe Fernandez   <br>  25 de septiembre de 2019</span>
+                            <span>Por Felipe Fernandez<br>25 de septiembre de 2019</span>
                             <div class="course-ratings">
                                 <i class="fa fa-star" aria-hidden="true"></i>
                                 <i class="fa fa-star" aria-hidden="true"></i>
@@ -143,7 +143,7 @@
                     <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="500ms">
                         <div class="popular-course-content">
                             <h5>Administracion de negocio</h5>
-                            <span>Por Gabriela Herrera   <br>  02 de octubre de 2019</span>
+                            <span>Por Gabriela Herrera<br>02 de octubre de 2019</span>
                             <div class="course-ratings">
                                 <i class="fa fa-star" aria-hidden="true"></i>
                                 <i class="fa fa-star" aria-hidden="true"></i>
